@@ -1,4 +1,4 @@
-# DeepNudes (UPDATED: 04/07/2019)
+# DeepNudes (UPDATED: 05/07/2019)
 ## Cracked version of DeepNudes software, free for download
 
 ### Tutorial:
