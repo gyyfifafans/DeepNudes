@@ -1,6 +1,10 @@
 # DeepNudes (UPDATED: 05/07/2019)
 ## Cracked version of DeepNudes software, free for download
 
+## Bug Fixes:
+- Fixed app not launching after first run.
+- Fixed app crashing in some image files.
+
 ### Tutorial:
 
 Download files with any Torrent client, and run DeepNudes.exe file (Is recommended to run with administrator rights, for more compatibility)
